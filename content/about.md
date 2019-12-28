@@ -2,8 +2,11 @@
 title = "About Me"
 slug = "about"
 +++
+__Note: This website is a WIP.__
 
-I am a product manager based in Austin. I build software products which solve customer problems and are intuitive and a delight to use.
+I am a product manager and an entrepreneur based in Austin. I build intuitive software products which solve customer and business problems.
+
+Contact: [chauhan.saransh@gmail.com](mailto:chauhan.saransh@gmail.com)
 <!-- 
 Over the years I've acquired skills which help me create beautiful, useful products
 
@@ -11,7 +14,6 @@ Over the years I've acquired skills which help me create beautiful, useful produ
 - Analytical - I decompose complex problems into smaller parts so they can be tackled individually
 - Tech Background - I've written code for almost 10 years. This helps me create and work with high-performance dev teams.
 - Research - It's not only about finding answers, but also about asking the right question. Sounds cliched but I've experienced that asking 3 "Why"s in a row can help you uncover the real pain-point of your customer. -->
-
 ## Tools I Use ##
 ---
 ##### Product Development #####
