@@ -3,7 +3,7 @@
 # title = "My New Hugo Site"
 
 
-baseurl = "http://www.saranshchauhan.com"
+#baseurl = "http://www.saranshchauhan.com"
 title = "saransh chauhan"
 theme = "hugo-coder"
 
