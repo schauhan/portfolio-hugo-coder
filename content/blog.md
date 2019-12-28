@@ -1,5 +1,5 @@
 +++
 title = "Blogs"
-slug = "posts"
+slug = "/posts"
 +++
 __WIP__
