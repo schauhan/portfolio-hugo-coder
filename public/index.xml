@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>saransh chauhan</title>
+    <link>http://www.example.com/</link>
+    <description>Recent content on saransh chauhan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Hugo</title>
+      <link>http://www.example.com/about-hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/about-hugo/</guid>
+      <description>Hugo is a static site engine written in Go.
+It makes use of a variety of open source projects including:
+ Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
+Setup Some fun facts about Hugo:
+ Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>http://www.example.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/about/</guid>
+      <description>I am a product manager based in Austin. I build software products which solve customer problems and are intuitive and a delight to use.
+Tools I Use  Product Development Plan: Feature Prioritization, Roadmaps, Backlogs, User Story Maps
+Build: Wireframes, UX, A/B Tests, User Research, Competition Analysis
+Market and Track: CRO, SEO, Surveys, Data Analysis
+Product Management Pricing Strategy, Go-To Market Strategy, Negotiations, Stakeholder Management
+Tech Data: Python, Pandas, NumPy, Matplotlib, SQL | PostgreSQL, ElasticSearch | Kibana,</description>
+    </item>
+    
+  </channel>
+</rss>
