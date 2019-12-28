@@ -84,7 +84,11 @@ disqusShortname = "yourdiscussshortname"
     icon = "fab fa-medium"
     weight = 5
     url = "https://medium.com/@chauhan.saransh"
-
+[[params.social]]
+    name = "Gmail"
+    icon = "fas fa-envelope"
+    weight = 5
+    url = "mailto:chauhan.saransh@gmail.com"
 
 [languages]
     [languages.en]
