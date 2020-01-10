@@ -19,6 +19,9 @@ pygmentscodefencesguesssyntax = true
 
 disqusShortname = "yourdiscussshortname"
 
+[permalinks]
+  posts = "/:slug"
+
 [params]
     author = "Saransh Chauhan"
     description = "Saransh Chauhan's personal website"

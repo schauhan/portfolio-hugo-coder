@@ -1,6 +1,6 @@
 +++
 title = "About Me"
-url = "/about"
+slug = "/about"
 +++
 __Note: This website is a WIP.__
 
