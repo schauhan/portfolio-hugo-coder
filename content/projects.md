@@ -1,5 +1,5 @@
 +++
 title = "Projects"
-slug = "/projects"
+url = "/projects"
 +++
 __WIP__
